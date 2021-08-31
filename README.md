@@ -1,10 +1,10 @@
-# Image Recognition - T-DEV-700
+# Image Recognition - T-DEV-810
 
 ![Project logo](assets/logo.png)
 
 # Sommaire
 
-- [Image Recognition - T-DEV-700](#image-recognition---t-dev-700)
+- [Image Recognition - T-DEV-810](#image-recognition---t-dev-810)
 - [Sommaire](#sommaire)
 - [Presentation](#presentation)
 - [Technologies](#technologies)
