@@ -14,7 +14,7 @@
   - [Projets en parallèle](#projets-en-parallèle)
 - [Fonctionnalités](#fonctionnalités)
 - [Equipe et répartition du travail](#equipe-et-répartition-du-travail)
-  - [Membres de l'équipe :](#membres-de-léquipe-)
+  - [Membres de l'équipe](#membres-de-léquipe)
 - [Notation](#notation)
 - [Liens](#liens)
 
@@ -56,7 +56,7 @@ Semestre 8 *(second semestre de M1)*
 **Documentation réalisée par :** Toute l'équipe  
 **Diaporama de présentation réalisé par :** Toute l'équipe
 
-## Membres de l'équipe :
+## Membres de l'équipe
 * **Adimi Redwane**
   * Etudiant à : Lille
   * Nombre de commits : -
