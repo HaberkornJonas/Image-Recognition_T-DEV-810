@@ -52,7 +52,7 @@ Semestre 8 *(second semestre de M1)*
 
 # Equipe et répartition du travail
 **Nombre de commit total :** - *(Projet mené sur Kaggle, ce repository rassemble nos notebook jupyter)*  
-**Chef de projet :** Adimi Redwane
+**Chef de projet :** Adimi Redwane  
 **Documentation réalisée par :** Toute l'équipe  
 **Diaporama de présentation réalisé par :** Toute l'équipe
 
