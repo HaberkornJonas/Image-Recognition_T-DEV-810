@@ -90,5 +90,5 @@ Feedback
 ![Feedack](assets/feedback.png)
 
 # Liens
-* [Projet](project)
+* [Projet](https://github.com/HaberkornJonas/Image-Recognition_T-DEV-810/blob/post_delivery/project/IA.ipynb)
 * [Sujets](documents/subject)
